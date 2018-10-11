@@ -1,0 +1,39 @@
+.hero,
+#navbarMenuHeroB {
+  background-image: url("../img/pw_maze_black_2X.png");
+}
+
+.is-active {
+  color: #fff;
+}
+
+.navbar-burger {
+  color: #fff;
+}
+
+li {
+  list-style: none;
+}
+
+.packages {
+  background-image: url("../img/tiny-squares.png");
+}
+
+.contain {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.control {
+  display: flex;
+  justify-content: center;
+}
+
+.field.is-grouped {
+  display: flex;
+  justify-content: center;
+}
+
+.section.form {
+  background-image: url("../img/pw_maze_black_2X.png");
+}
